@@ -1,0 +1,30 @@
+_repo: Le-roman-de-Miraut---Chien-de-chasse_14397
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pergaud, Louis
+    birthdate: 1882
+    deathdate: 1915
+    gutenberg_agent_id: '5501'
+    url: http://www.gutenberg.org/2009/agents/5501
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Louis_Pergaud
+    - http://en.wikipedia.org/wiki/Louis_Pergaud
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14397'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Fiction'
+- !lcc 'PQ'
+title: Le roman de Miraut - Chien de chasse
+url: http://www.gutenberg.org/ebooks/14397
